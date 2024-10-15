@@ -20,18 +20,6 @@
 - .NET SDK (>= .NET Framework 4.5 or .NET Core)
 - Basic understanding of C# for extending and modifying the file types
 
-### Installation
-
-1. Clone the repository:
-
-    ```bash
-    git clone https://github.com/your-username/FileTypeValidator.git
-    ```
-
-2. Open the project in Visual Studio or your preferred IDE.
-
-3. Build the project to restore dependencies and compile the utility.
-
 ### Usage
 
 The main functionality is exposed via the `FileTypeValidator` class, which contains methods for validating file formats based on magic numbers and extensions.
